@@ -2,7 +2,7 @@
 Machine Learning micro device w/ ESP32Cam
 <br><br>
 
-<img src="picture/tensors_flowing.gif"/> &nbsp;&nbsp;&nbsp;<img src="picture/TFlite_build0608.png" width=300/><br><br>
+<img src="picture/tensors_flowing.gif"/> &nbsp;&nbsp;&nbsp;<img src="picture/TFlite_build0608.png" /><br><br>
 <img src="picture/TFLite_0608_1.png"/> &nbsp;&nbsp;&nbsp; <img src="picture/TFLite_0608_2.png"/> 
 <br><br>
 
