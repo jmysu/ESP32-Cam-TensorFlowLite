@@ -8,7 +8,7 @@ example from TensorFlowLite_ESP32 library!
 <img src="picture/TFLite_0608_1.png" width=250 /> &nbsp;&nbsp;&nbsp; <img src="picture/TFLite_0608_2.png" width=250/> 
 <br><br>
 
-<img src="picture/deep-learning638.jpg" Google Keynote Presentation. (check references)
+<img src="picture/deep-learning-638.jpg" Google Keynote Presentation. (check references)
 <br><br>
 
 ## References
