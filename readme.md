@@ -12,6 +12,6 @@ example from TensorFlowLite_ESP32 library!
 <br><br>
 
 ## References
-  - [TensorFlowLite_ESP32](https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32)  Arduino TensorFlowLite for ESP32 library.
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
-  - [Large-Scale Deep Learning for Building Intelligent Computer Systems](https://www.slideshare.net/embeddedvision/largescale-deep-learning-for-building-intelligent-computer-systems-a-keynote-presentation-from-google) a Keynote Presentation from Google
+  - [TensorFlowLite_ESP32](https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32)  Arduino TensorFlowLite for ESP32 library.
+  - [Large-Scale Deep Learning for Building Intelligent Computer Systems](https://www.slideshare.net/embeddedvision/largescale-deep-learning-for-building-intelligent-computer-systems-a-keynote-presentation-from-google) A Keynote Presentation from Google Brain Team.
