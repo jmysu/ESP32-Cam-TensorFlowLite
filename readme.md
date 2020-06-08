@@ -1,7 +1,7 @@
 # ESP320-Cam-TensorFlowLite [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 Machine Learning person detection responder on micro device (w/ ESP32Cam).
-<br>
-Example from TensorFlowLite_ESP32 library!
+<br><br>
+Example from TensorFlowLite_ESP32 library!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
 <br><br>
 
